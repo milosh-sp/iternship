@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876018913954",
+    "project_id": "iternship-74354",
+    "storage_bucket": "iternship-74354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876018913954:android:f627ac0f5ae0f0b5423dfb",
+        "android_client_info": {
+          "package_name": "com.example.iternship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876018913954-ca705rbbvi6n7o7ldl2ir5or6in9uurd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZGjA6rE7xHs5jcEFRb1VQ55xDoYC5Jq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876018913954-ca705rbbvi6n7o7ldl2ir5or6in9uurd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
