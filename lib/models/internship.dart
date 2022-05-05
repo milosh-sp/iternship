@@ -48,13 +48,9 @@ class Internship {
   static List<Internship> fetchAll() {
     return [
       Internship(1,'Frontend mips deveper',
-          [InternshipDetail('It is nice job best in village', '#mips #anime #lmao')],'Citebeur'),
+          [InternshipDetail('It is nice job', '#mips #anime #lmao')],'Studio'),
       Internship(2,'Backend',
           [InternshipDetail('Backend is good', '#mips #duzob #zob')],'Sebastian studios'),
-      Internship(3,'Backend mips developer',
-          [InternshipDetail('Best job guys yeah yeah eayh', '#black #cock #gang')],'Mipsilon'),
-      Internship(4,'Blowjob squad skopje',
-          [InternshipDetail('Travel mips and study with the famous blowjob skopje famous blowjob skopje famous blowjob skopje', '#black #cock #gang')],'Lmao studios')
-    ];
+      Internship(3,'mips developer',
   }
 }
